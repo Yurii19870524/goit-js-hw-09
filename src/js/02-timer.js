@@ -106,3 +106,5 @@ const timer = {
     return String(value).padStart(2, 0);
   },
 };
+
+const dak = 45;
